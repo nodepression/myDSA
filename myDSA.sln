@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fibonacci", "fibonacci\fibo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sort", "sort\sort.vcxproj", "{84E383C2-5012-4ACF-BF3D-65EAB77FA800}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vector", "vector\vector.vcxproj", "{FFF5A66D-DB20-48E2-9419-562250CEA8BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{84E383C2-5012-4ACF-BF3D-65EAB77FA800}.Release|x64.Build.0 = Release|x64
 		{84E383C2-5012-4ACF-BF3D-65EAB77FA800}.Release|x86.ActiveCfg = Release|Win32
 		{84E383C2-5012-4ACF-BF3D-65EAB77FA800}.Release|x86.Build.0 = Release|Win32
+		{FFF5A66D-DB20-48E2-9419-562250CEA8BD}.Debug|x64.ActiveCfg = Debug|x64
+		{FFF5A66D-DB20-48E2-9419-562250CEA8BD}.Debug|x64.Build.0 = Debug|x64
+		{FFF5A66D-DB20-48E2-9419-562250CEA8BD}.Debug|x86.ActiveCfg = Debug|Win32
+		{FFF5A66D-DB20-48E2-9419-562250CEA8BD}.Debug|x86.Build.0 = Debug|Win32
+		{FFF5A66D-DB20-48E2-9419-562250CEA8BD}.Release|x64.ActiveCfg = Release|x64
+		{FFF5A66D-DB20-48E2-9419-562250CEA8BD}.Release|x64.Build.0 = Release|x64
+		{FFF5A66D-DB20-48E2-9419-562250CEA8BD}.Release|x86.ActiveCfg = Release|Win32
+		{FFF5A66D-DB20-48E2-9419-562250CEA8BD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
